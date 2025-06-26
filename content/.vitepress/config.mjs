@@ -11,6 +11,7 @@ export default defineConfig({
   title: "Stella IT OpenAPI",
   description: "API를 활용하여 나만의 프로젝트 구축하기",
   ignoreDeadLinks: true,
+  cleanUrls: true,
 
   themeConfig: {
     logo: {
