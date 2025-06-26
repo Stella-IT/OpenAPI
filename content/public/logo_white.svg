@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 2229 351.9">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Upgrade-Regular, Upgrade;
+        font-size: 250px;
+      }
+
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: url(#_무제_그라디언트);
+      }
+
+      .st3 {
+        fill: url(#_무제_그라디언트_2);
+      }
+
+      .st4 {
+        fill: #378cff;
+      }
+
+      .st1 {
+        font-family: Upgrade-Semibold, Upgrade;
+        font-size: 273.8px;
+        font-weight: 600;
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트" data-name="무제 그라디언트" x1="62" y1="206.5" x2="62" y2="354" gradientTransform="translate(0 354) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#378cff"/>
+      <stop offset="1" stop-color="#37c8ff"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_2" data-name="무제 그라디언트 2" x1="134" y1="2.1" x2="134" y2="206.5" gradientTransform="translate(0 354) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9137ff"/>
+      <stop offset="1" stop-color="#646eff"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="st2" d="M76.3,147.5H0C12.3,86.7,40.4,34.7,78,0l46,66.8c-21,19.1-37.8,47.2-47.7,80.7Z"/>
+    <path class="st4" d="M110,217c6.3-21.3,9.8-44.8,9.8-69.5h-43.5c-6.3,21.3-9.8,44.8-9.8,69.5h43.5Z"/>
+    <path class="st3" d="M193.3,147.5h-73.5c0,24.7-3.5,48.2-9.8,69.5-7.8,26.6-20,49.8-35.3,67.8l46.1,67.1c31.3-34.1,54.6-81,65.5-134.9,4.5-22.1,7-45.4,7-69.5Z"/>
+  </g>
+  <text class="st1" transform="translate(322.2 259.6)"><tspan x="0" y="0">Stella IT</tspan></text>
+  <text class="st0" transform="translate(1333.5 263.5)"><tspan x="0" y="0">OpenAPI</tspan></text>
+</svg>

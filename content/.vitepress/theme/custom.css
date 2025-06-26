@@ -1,0 +1,55 @@
+:root {
+  --vp-home-hero-name-color: blue;
+}
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
+}
+
+
+.OASidebarItem {
+  display: block;
+}
+
+.OAMethodBadge--get {
+  font-size: .55rem;
+  padding: .25rem;
+  border-radius: .375rem;
+  line-height: 1.25;
+}
+.OAMethodBadge--post {
+  font-size: .55rem;
+  padding: .25rem;
+  border-radius: .375rem;
+  line-height: 1.25;
+}
+.OAMethodBadge--put {
+  font-size: .55rem;
+  padding: .25rem;
+  border-radius: .375rem;
+  line-height: 1.25;
+}
+.OAMethodBadge--delete {
+  font-size: .55rem;
+  padding: .25rem;
+  border-radius: .375rem;
+  line-height: 1.25;
+}
+.OAMethodBadge--patch {
+  font-size: .55rem;
+  padding: .25rem;
+  border-radius: .375rem;
+  line-height: 1.25;
+}
+.OAMethodBadge--options {
+  font-size: .55rem;
+  padding: .25rem;
+  border-radius: .375rem;
+  line-height: 1.25;
+}
+.OAMethodBadge--head {
+  font-size: .55rem;
+  padding: .25rem;
+  border-radius: .375rem;
+  line-height: 1.25;
+}
