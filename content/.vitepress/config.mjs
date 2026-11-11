@@ -13,6 +13,15 @@ export default defineConfig({
   ignoreDeadLinks: true,
   cleanUrls: true,
 
+  vite: {
+    ssr: {
+      // vitepress-openapi는 'vitepress'에서 useData를 import하는데,
+      // VitePress 2부터 'vitepress' 패키지 엔트리는 Node 전용이므로
+      // SSR 번들에 포함시켜 VitePress의 client alias가 적용되도록 한다.
+      noExternal: ['vitepress-openapi'],
+    },
+  },
+
   themeConfig: {
     logo: {
       light: '/logo_black.svg',
