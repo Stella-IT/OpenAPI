@@ -6,7 +6,7 @@
     "preview": "vitepress preview content"
   },
   "devDependencies": {
-    "vitepress": "^1.6.4",
-    "vitepress-openapi": "^0.2.13"
+    "vitepress": "1.6.4",
+    "vitepress-openapi": "0.1.20"
   }
 }
